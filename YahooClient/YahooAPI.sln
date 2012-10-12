@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooClient", "YahooClient.csproj", "{108D29F1-25BA-48F8-A2C6-01A634349143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthLib", "..\OAuthLib\OAuthLib.csproj", "{904DCFA3-9DB1-44B1-A95E-154A680C50F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooService", "..\YahooService\YahooService.csproj", "{20EEC801-F8DE-4C34-A720-79961EEC70D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{108D29F1-25BA-48F8-A2C6-01A634349143}.Release|x86.ActiveCfg = Release|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{904DCFA3-9DB1-44B1-A95E-154A680C50F7}.Release|x86.ActiveCfg = Release|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{20EEC801-F8DE-4C34-A720-79961EEC70D6}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
